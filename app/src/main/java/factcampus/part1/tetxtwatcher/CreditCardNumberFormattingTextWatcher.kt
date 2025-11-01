@@ -25,7 +25,17 @@ class CreditCardNumberFormattingTextWatcher : TextWatcher {
         }
     }
 
+
+
+
+
+
+
+
     companion object {
+
+
+
         private val nonDigits = Regex("[^\\d]")
     }
 
